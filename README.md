@@ -69,3 +69,6 @@ all need to be done quickly, and it doesn't all need to be done by me. The aim
 of creating this repository is to break down the tasks so that the various 
 parts become more manageable, and to make it possible for other people to step
 in and help.
+
+Here is the current task list: [Jesus and the Other Place](https://github.com/users/PaulHazelden/projects/1)
+
