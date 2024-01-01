@@ -77,3 +77,4 @@ in and help.
 
 Here is the current task list: [Jesus and the Other Place](https://github.com/users/PaulHazelden/projects/1)
 
+You can download a [two page summary](SF_Torment_or_Destruction.pdf) of the message.
