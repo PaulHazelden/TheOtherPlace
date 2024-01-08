@@ -44,7 +44,7 @@ move some content around a few times, and discovered that it didn't help.
 The problem is that there 
 are several important, related and non-trivial things which need to be communicated:
 in order to properly understand any one of them, you need to understand the others
-first.  There is no ideal sequence in which the material should be covered, because
+first.  Everything is connected. There is no ideal sequence in which the material should be covered, because
 whatever I say at the start, it would be better if something else had been said first.
 At present, I'm not planning to make any further changes to the structure, or the 
 order in which topics are covered.
