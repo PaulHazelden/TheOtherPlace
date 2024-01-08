@@ -28,12 +28,20 @@ footnotes.  The latest draft of the book, now called 'Jesus and the Other Place'
 86,792 words and 345 pages when formatted as a A5 document.  A lot of detail has 
 been added, but the online article still provides the basic content.
 
-Almost all the feedback I have received has been concerning the structure of the 
+Apart from the spelling mistakes and grammatical errors (which I am very grateful to 
+have pointed out), 
+almost all the feedback I have received has suggested changes to the structure of the 
 book, rather than the actual content.  And almost all the suggested changes said
-it would be better if *this* content was covered earlier.  In essence, whatever I
-say, it would be better if something else had been said first. At present, I'm
-not planning to make any further changes to the structure, or the order in which 
-topics are covered.
+it would be better if *this* specific piece of content was covered earlier.  I did 
+move some content around a few times, and discovered that it didn't help.
+
+The problem is that there 
+are several important, related and non-trivial things which need to be communicated:
+in order to properly understand any one of them, you need to understand the others
+first.  There is no ideal sequence in which the material should be covered, because
+whatever I say at the start, it would be better if something else had been said first.
+At present, I'm not planning to make any further changes to the structure, or the 
+order in which topics are covered.
 
 Almost all the remaining feedback suggested that it would be better if I included 
 stories of some people who have been affected by the doctrine of eternal torment.
