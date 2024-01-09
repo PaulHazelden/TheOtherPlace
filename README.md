@@ -72,16 +72,22 @@ A number of people have asked: why try to find a publisher?  Why not just
 publish it myself, or put it up on the Internet?  There are several reasons.
 
 - Publication by a respected publishing house will give the material credibility,
+  which has several benefits: it will aid sales, 
   and make it more likely that journals will review it, bookshops will stock it,
   and Bible Colleges will use it as a textbook or recommend it as a reference work.
 - A publisher will put some resources into publicising it, and I don't have the
-  capacity to do a great deal of promotion.
+  capacity to do a great deal of promotion; also, I will find it easier to publicise
+  a book published by someone else.
 - I don't have the finances to go down the full self-publishing route.
 - A publishing house is likely to produce a better quality product (apart from
   anything else, the current index is extensive and functional, but not pretty).
 
 That said, in the end, if the choice is between self publishing and not 
 publishing at all, I'll go for the self-publishing option.
+
+To state the (possibly) obvious - I'm not doing this to make money out of the book:
+the main aim of getting it published is to enable as many people as possible to
+benefit from the content.
 
 # Next Steps
 
