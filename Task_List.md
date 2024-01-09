@@ -19,4 +19,5 @@ This is a list of things to do, some of which are down to me, but others I am go
   People have said and written lots of good and encouraging things about the book, but I have not 
   collated them, and I have not asked permission to share them.  This is something else someone 
   could help with.
-  
+
+(Back to the [Main file](README.md).)
