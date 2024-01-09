@@ -43,8 +43,8 @@ move some content around a few times, and discovered that it didn't help.
 
 The core problem here is that everything is connected - at least, all the important
 details are.  There are several important, related and non-trivial things which need 
-to be understood reasonably well, in order that any of themm can be properly 
-understood.  So, in order to properly understand and any one of them, you need to 
+to be understood reasonably well, in order that any of them can be properly 
+understood.  So, in order to properly understand any one of them, you need to 
 adequately understand the others first. As a consequence, there is no ideal sequence 
 in which the material should be covered - whatever I say first, it would be better 
 if something else had been said first. At present, I'm not planning to make any 
