@@ -8,7 +8,7 @@ This project started off as some notes prepared for evangelical Christians,
 to help them understand that (despite what they have been told) the Bible 
 does not teach that the unsaved will spend eternity being tormented in Hell.
 
-I started to collate the notes in 1999, and they were uploaded to my website 
+I started to collate the notes in 1999, and they were uploaded to my website Would SPCK (or other publishers) be less likely to publish if it is already available (for example) as an ebook?
 in November 2001 as 
 "[What is the Fate of the Wicked?](http://hazelden.org.uk/pt03/art_pt121_fate_of_wicked.htm)".
 The article was revised a few times; the last update was made in May 2016.
@@ -89,6 +89,6 @@ of creating this repository is to break down the tasks so that the various
 parts become more manageable, and to make it possible for other people to step
 in and help.
 
-Here is the current task list: [Jesus and the Other Place](https://github.com/users/PaulHazelden/projects/1)
+Here is the current [Task List](Task_List.md).
 
 You can download a [two page summary](SF_Torment_or_Destruction.pdf) of the message.
