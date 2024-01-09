@@ -8,7 +8,7 @@ This project started off as some notes prepared for evangelical Christians,
 to help them understand that (despite what they have been told) the Bible 
 does not teach that the unsaved will spend eternity being tormented in Hell.
 
-I started to collate the notes in 1999, and they were uploaded to my website Would SPCK (or other publishers) be less likely to publish if it is already available (for example) as an ebook?
+I started to collate the notes in 1999, and they were uploaded to my website 
 in November 2001 as 
 "[What is the Fate of the Wicked?](http://hazelden.org.uk/pt03/art_pt121_fate_of_wicked.htm)".
 The article was revised a few times; the last update was made in May 2016.
@@ -41,12 +41,14 @@ book, rather than the actual content.  And almost all the suggested changes said
 it would be better if *this* specific piece of content was covered earlier.  I did 
 move some content around a few times, and discovered that it didn't help.
 
-The problem is that there 
-are several important, related and non-trivial things which need to be communicated:
-in order to properly understand any one of them, you need to understand the others
-first.  Everything is connected. There is no ideal sequence in which the material should be covered, because
-whatever I say at the start, it would be better if something else had been said first.
-At present, I'm not planning to make any further changes to the structure, or the 
+The core problem here is that everything is connected - at least, all the important
+details are.  There are several important, related and non-trivial things which need 
+to be understood reasonably well, in order that any of themm can be properly 
+understood.  So, in order to properly understand and any one of them, you need to 
+adequately understand the others first. As a consequence, there is no ideal sequence 
+in which the material should be covered - whatever I say first, it would be better 
+if something else had been said first. At present, I'm not planning to make any 
+further changes to the structure, and in particular I'm not planning to change the 
 order in which topics are covered.
 
 Almost all the remaining feedback suggested that it would be better if I included 
@@ -91,4 +93,4 @@ in and help.
 
 Here is the current [Task List](Task_List.md).
 
-You can download a [two page summary](SF_Torment_or_Destruction.pdf) of the message.
+You can download a PDF [two page summary](SF_Torment_or_Destruction.pdf) of the message.
