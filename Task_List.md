@@ -2,7 +2,7 @@
 
 This is a list of things to do, some of which are down to me, but others I am going to need help with.
 
-1. **Add more detail** about the book in this repository, so people have a better idea what we are talking about
+1. [**Add more detail**](Detail.md) about the book in this repository, so people have a better idea what we are talking about
 
 1. **Complete the SPCK submission.**  There is a form which needs to be filled in, and to get the emotional energy to finish it: some help would be appreciated. 
 
@@ -19,5 +19,9 @@ This is a list of things to do, some of which are down to me, but others I am go
   People have said and written lots of good and encouraging things about the book, but I have not 
   collated them, and I have not asked permission to share them.  This is something else someone 
   could help with.
+
+1. **[Identify Supporters](Supporters.md)**
+   Many people have said that *Jesus and the Other Place* is an important book and should be published,
+   but in the past I have not asked if they would be willing to go on record with this opinion.
 
 (Back to the [Main file](README.md).)
