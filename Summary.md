@@ -1,4 +1,4 @@
-Jesus and the Other Place: Summary
+# Jesus and the Other Place: Summary
 
 The book is both a clear, accessible statement of the Bible's teaching 
 about Hell for those who have no background in theology or Biblical Studies, 
