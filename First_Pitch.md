@@ -92,4 +92,4 @@ Christendom’.
 
 ---
 
-(Back to [Detail](Detail.md))
+(Back to [More Detail](Detail.md))
