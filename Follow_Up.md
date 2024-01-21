@@ -43,6 +43,11 @@ Ask](https://www.amazon.com/Bad-Place-Everything-always-wanted-ebook/dp/B09NKJ2X
 this was self-published as an ebook.
 
 
+Bart D. Ehrman, [Heaven and Hell: A History of the Afterlife](https://www.amazon.co.uk/Heaven-Hell-Afterlife-Bart-Ehrman-ebook/dp/B07ZWFHY6K/ref=sr_1_1)
+
+Denny Burk et al., [Four Views on Hell: Second Edition](https://www.amazon.co.uk/Four-Views-Hell-Counterpoints-Theology/dp/0310516463/ref=sr_1_1)
+
+
 Rethinking Hell People:
 
 - [Chris Date (Primary contact)](https://rethinkinghell.com/author/chris-date/)
