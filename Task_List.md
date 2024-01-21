@@ -26,4 +26,6 @@ This is a list of things to do, some of which are down to me, but others I am go
 
 1. Follow up the [References](Follow_Up.md) which have been passed on.
 
-(Back to the [Main file](README.md).)
+---
+
+(Back to the [Main file](README.md))
