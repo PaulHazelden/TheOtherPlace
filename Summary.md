@@ -6,4 +6,4 @@ and also a comprehensive survey of the more complicated issues and doctrines
 around the subject of Hell and who goes there.  It clearly presents what 
 Jesus tells us about Hell, which is very different from the medieval picture 
 we are familiar with.
-
+(67 words)
