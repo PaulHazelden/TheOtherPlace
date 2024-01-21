@@ -65,4 +65,6 @@ also [his personal website](https://www.3ringbinder.org/)
 
 - [Peter Grice (Founder)](https://rethinkinghell.com/author/peter-grice/)
 
+---
+
 (Back to the [Task List](Task_List.md))
