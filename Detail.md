@@ -5,3 +5,5 @@ it offers the conclusion which the book establishes, but does not present the ar
 that conclusion.
 
 [*Summary*](Summary.md).  A description of what the book is about.
+
+[*First Pitch*](First_Pitch.md).  My first attempt to persuade a publisher to take the book.
