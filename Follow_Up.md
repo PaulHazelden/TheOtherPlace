@@ -56,6 +56,7 @@ also [Amazon author](https://www.amazon.com/stores/J.-Webb-Mealy/author/B00J8VOI
 and [podcast?](https://rethinkinghell.com/2023/12/31/episode-156-the-bad-place-with-j-webb-mealy-part-1/)
 
 - [Joseph Dear](https://rethinkinghell.com/author/joseph-dear/)
+also [his personal website](https://www.3ringbinder.org/)
 
 - [Peter Grice (Founder)](https://rethinkinghell.com/author/peter-grice/)
 
