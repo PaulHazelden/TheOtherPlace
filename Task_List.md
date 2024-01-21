@@ -24,6 +24,6 @@ This is a list of things to do, some of which are down to me, but others I am go
    Many people have said that *Jesus and the Other Place* is an important book and should be published,
    but in the past I have not asked if they would be willing to go on record with this opinion.
 
-1. Follow up the [References](Follow-Up.md) which have been passed on.
+1. Follow up the [References](Follow_Up.md) which have been passed on.
 
 (Back to the [Main file](README.md).)
