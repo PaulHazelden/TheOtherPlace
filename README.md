@@ -101,5 +101,5 @@ One thing I have recently done is to break down the tasks so that the various
 parts become more manageable, and to make it easier for other people to step
 in and help.
 
-Here is the current [Task List](Task_List.md), which links to the other
+The current [Task List](Task_List.md) includes links to the other
 information about the book and progress towards publication.
