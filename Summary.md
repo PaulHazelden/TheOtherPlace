@@ -1,5 +1,7 @@
 # Jesus and the Other Place: Summary
 
+## One Summary
+
 The book is both a clear, accessible statement of the Bible's teaching 
 about Hell for those who have no background in theology or Biblical Studies, 
 and also a comprehensive survey of the more complicated issues and doctrines 
@@ -7,6 +9,12 @@ around the subject of Hell and who goes there.  It clearly presents what
 Jesus tells us about Hell, which is very different from the medieval picture 
 we are familiar with.
 (67 words)
+
+## About this book
+
+This book seeks to take seriously what Jesus tells us about the fate of those who do not follow him. The message Jesus gives us about the next world can be found throughout the Bible, and can be summarised very simply: we are offered two paths, and we can choose between two possible futures – we can receive eternal life, or we can perish.
+
+Traditional mainstream Christian teaching says the unsaved will suffer eternal torment, but this is not the biblical message. The doctrine of eternal torment distorts the gospel message, disrupts our evangelism, and makes honest and sensitive pastoral care for the bereaved even harder than it is already. Even worse, it presents our Heavenly Father as a cruel monster.
 
 ---
 
