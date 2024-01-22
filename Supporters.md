@@ -1,6 +1,6 @@
 # Jesus and the Other Place: Supporters
 
-This is a list of the people who believe that *Jesus and the Other Place* needs to be published, and are willing to say so in public.
+This is a list of the people who believe that *Jesus and the Other Place* needs to be published, and are willing to say so in public. If you woudl like to be added to this list, please [complete this short form](https://forms.gle/WdtHYqaW535saqzB9).  Thanks!
 
 **Roger Forster**.  A wonderful Church leader, who recently died.  Roger founded Ichthus Christian Fellowship, and wrote numerous helpful books.
 
