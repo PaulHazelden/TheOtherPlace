@@ -1,7 +1,7 @@
 # Jesus and the Other Place
 
-Within the discipline of Christian theology: exploring what the Bible actually 
-says about Hell
+Within the discipline of Christian theology, this is a book which unpacks 
+what the Bible actually says about Hell.
 
 # Background
 
