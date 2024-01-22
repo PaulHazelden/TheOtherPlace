@@ -25,7 +25,7 @@ couple of months, alongside various other activities.  Then I started to circula
 it for comment and tried to get it published.
 
 Since then it has been reviewed and revised countless times, with copies sent to
-at least 63 people - there were others I forgot to note at the time, and others who
+at least 64 people - there were others I forgot to note at the time, and others who
 had it passed on to them by someone else.  We are currently on version 11.112 
 (that is, the 112th revision of the 11th major version). Along the way, there have 
 been two major re-writes.
@@ -93,11 +93,13 @@ benefit from the content.
 # Next Steps
 
 Quite a lot needs to be done before the book can be published, but it doesn't 
-all need to be done quickly, and it doesn't all need to be done by me. The aim
-of creating this repository is to break down the tasks so that the various 
-parts become more manageable, and to make it possible for other people to step
+all need to be done quickly, and it doesn't all need to be done by me. 
+The main aim of creating this repository is to make information about the book,
+(along with the process of getting it published and dealing with the issues it 
+raises) accessible to friends and the public at large.
+One thing I have recently done is to break down the tasks so that the various 
+parts become more manageable, and to make it easier for other people to step
 in and help.
 
-Here is the current [Task List](Task_List.md).
-
-You can download a PDF [two page summary](SF_Torment_or_Destruction.pdf) of the message.
+Here is the current [Task List](Task_List.md), which links to the other
+information about the book and progress towards publication.
