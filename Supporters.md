@@ -10,3 +10,7 @@ BSc (Hons) in Mathematics with Philosophy from the University of Surrey, and he 
 Paul helped to set up and run the *Snowball* training program for evangelists, and led a Christian charity working with homeless people for 14 years.
 
 **Brian Monahan**.  Brian has completed the foundation training year of Westminster Theological Centre. 
+
+---
+
+(Back to the [Task List](Task_List.md))
