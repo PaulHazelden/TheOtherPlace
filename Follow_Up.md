@@ -71,6 +71,9 @@ People who might be interested in supporting:
 
 - [Paul Kingsnorth](https://en.wikipedia.org/wiki/Paul_Kingsnorth)
 
+- [Keith Giles](https://www.patheos.com/blogs/keithgiles/about/)
+
+
 ---
 
 (Back to the [Task List](Task_List.md))
