@@ -84,7 +84,7 @@ publish it myself, or put it up on the Internet?  There are several reasons.
   anything else, the current index is extensive and functional, but not pretty).
 
 That said, in the end, if the choice is between self publishing and not 
-publishing at all, I'll go for the self-publishing option.
+publishing at all, I'll go for the self-publishing option.If you would like to be added to this list, please complete this short form. Thanks!
 
 To state the (possibly) obvious - I'm not doing this to make money out of the book:
 the main aim of getting it published is to enable as many people as possible to
@@ -100,6 +100,11 @@ raises) accessible to friends and the public at large.
 One thing I have recently done is to break down the tasks so that the various 
 parts become more manageable, and to make it easier for other people to step
 in and help.
+
+If you would like to support the publication of *Jesus and the Other Place*,
+or you have a story about the impact that believing in eternal conscious torment 
+of the unsaved had on you - or of the conseuqnces of being told that you must
+believe it, when you had doubts - then please complete this short form. Thanks!
 
 The current [Task List](Task_List.md) includes links to the other
 information about the book and progress towards publication.
