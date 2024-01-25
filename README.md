@@ -104,7 +104,8 @@ in and help.
 If you would like to support the publication of *Jesus and the Other Place*,
 or you have a story about the impact that believing in eternal conscious torment 
 of the unsaved had on you - or of the conseuqnces of being told that you must
-believe it, when you had doubts - then please complete this short form. Thanks!
+believe it, when you had doubts - then please complete [this short 
+form](https://forms.gle/WdtHYqaW535saqzB9). Thanks!
 
 The current [Task List](Task_List.md) includes links to the other
 information about the book and progress towards publication.
