@@ -65,6 +65,12 @@ also [his personal website](https://www.3ringbinder.org/)
 
 - [Peter Grice (Founder)](https://rethinkinghell.com/author/peter-grice/)
 
+People who might be interested in supporting:
+
+- [Rob Bell](https://robbell.com/contact/)
+
+- [Paul Kingsnorth](https://en.wikipedia.org/wiki/Paul_Kingsnorth)
+
 ---
 
 (Back to the [Task List](Task_List.md))
