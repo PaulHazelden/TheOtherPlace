@@ -35,6 +35,9 @@ footnotes.  The latest draft of the book, now called 'Jesus and the Other Place'
 86,792 words and 345 pages when formatted as a A5 document.  A lot of detail has 
 been added, but the online article still provides the basic content.
 
+The late and much lamented Roger Forster was good enough to write a foreword when 
+I was first trying to get the book published.  I am sorry that he never saw it in print.
+
 Apart from the spelling mistakes and grammatical errors (which I am very grateful to 
 have pointed out), 
 almost all the feedback I have received has suggested changes to the structure of the 
