@@ -51,7 +51,7 @@ to be understood reasonably well, in order that any of them can be properly
 understood.  So, in order to properly understand any one of them, you need to 
 adequately understand the others first. As a consequence, there is no ideal sequence 
 in which the material should be covered - whatever I say first, it would be better 
-if something else had been said first. At present, I'm not planning to make any 
+if something else had been said first. So I'm not currently planning to make any 
 further changes to the structure, and in particular I'm not planning to change the 
 order in which topics are covered.
 
@@ -87,7 +87,9 @@ publish it myself, or put it up on the Internet?  There are several reasons.
   anything else, the current index is extensive and functional, but not pretty).
 
 That said, in the end, if the choice is between self publishing and not 
-publishing at all, I'll go for the self-publishing option.If you would like to be added to this list, please complete this short form. Thanks!
+publishing at all, I'll go for the self-publishing option. If you would like to be 
+added to this list, please complete [this short 
+form](https://forms.gle/WdtHYqaW535saqzB9). Thanks!
 
 To state the (possibly) obvious - I'm not doing this to make money out of the book:
 the main aim of getting it published is to enable as many people as possible to
