@@ -8,6 +8,8 @@ that conclusion.
 
 [*First Pitch*](First_Pitch.md).  My first attempt to persuade a publisher to take the book.
 
+[Hell is Real](Hell_Is_Real.md).  A short response to the most common initial objection.
+
 ---
 
 (Back to the [Task List](Task_List.md))
