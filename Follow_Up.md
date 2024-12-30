@@ -13,15 +13,16 @@ Annihilationism, not on Universalism.
 
 Film trailer: [Hell and Mr Fudge](https://vimeo.com/ondemand/hellandmrfudge)
 
+Advice:
 
-Publication of JatOP probably means publication by American publishers - and 
+"Publication of JatOP probably means publication by American publishers - and 
 therefore you need to know who in the US is supporting Conditional 
 Immortality - and perhaps get their support and/or interest.
 
-The people reviewing the two books below and/or contributing to them might be 
+"The people reviewing the two books below and/or contributing to them might be 
 helpful for endorsement purposes - at least those who are still alive.   Many 
 are theologians etc.  Some will no doubt be asked to review JatOP by 
-prospective publishers and to give their endorsements.
+prospective publishers and to give their endorsements."
 
 Rethinking Hell: Readings in Evangelical Conditionalism in 
 [Rethinking Hell](https://rethinkinghell.com/rethinkinghell-book/) and
@@ -71,8 +72,9 @@ People who might be interested in supporting:
 
 - [Paul Kingsnorth](https://en.wikipedia.org/wiki/Paul_Kingsnorth)
 
-- [Keith Giles](https://www.patheos.com/blogs/keithgiles/about/)
-
+- [Keith Giles](https://www.patheos.com/blogs/keithgiles/about/) - attempted to contact him via 
+  Patheos and their contact form, 30 December 2024.
+ 
 
 ---
 
