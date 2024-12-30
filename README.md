@@ -70,6 +70,21 @@ who make all kinds of assumptions about the content without reading a word.
 Since then, I have not had the emotional energy to jump through the hoops needed to
 persuade another publisher to take it on.
 
+# Not Convinced?
+
+If you believe I am mistaken, I have a simple request: please read the book, and
+then show me from the Bible where I'm going wrong. You can request a copy by 
+filling in  [this short 
+form](https://forms.gle/WdtHYqaW535saqzB9). 
+
+If that seems like too much work,
+there are a few pieces available from the [Detail](Detail.md) page which might 
+explain what the book is about, and why this matters.  And if you think there is
+no point in even looking at them, do have a look at the very short page, 
+[Hell Is Real](Hell_Is_Real.md),
+which addresses the most common objection I hear from people who have not read the 
+book.  Thank you.
+
 # Why Publication?
 
 A number of people have asked: why try to find a publisher?  Why not just 
