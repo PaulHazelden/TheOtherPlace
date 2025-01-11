@@ -4,7 +4,10 @@
 it offers the conclusion which the book establishes, but does not present the arguments supporting
 that conclusion.
 
+
 [*Summary*](Summary.md).  A description of what the book is about.
+
+[*Bibliography*](Bibliography.md).  A list of the books currently in the bibliography.
 
 [*First Pitch*](First_Pitch.md).  My first attempt to persuade a publisher to take the book.
 
