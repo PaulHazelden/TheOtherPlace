@@ -127,5 +127,7 @@ of the unsaved had on you - or of the consequences of being told that you must
 believe it, when you had doubts - then please complete [this short 
 form](https://forms.gle/WdtHYqaW535saqzB9). Thanks!
 
-The current [Task List](Task_List.md) includes links to the other
+You can find 
+[More Detail](Detail.md) about the book in this repository.
+The current [Task List](Task_List.md) also includes links to the other
 information about the book and progress towards publication.
