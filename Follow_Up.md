@@ -37,12 +37,18 @@ A Consuming Passion: Essays on Hell and Immortality in Honor of Edward Fudge in
 and
 [Hell A Final Word](https://www.amazon.co.uk/Hell-Final-Edward-William-Fudge-ebook/dp/B00EHSYMBO).
 
+ J. Webb Mealy,
 [The Bad Place: Or, Everything You Always Wanted to Know About Hell, but Were Afraid to 
 Ask](https://www.amazon.com/Bad-Place-Everything-always-wanted-ebook/dp/B09NKJ2XNB/)
 
-[The Bible teaches Annhiliationism](https://www.amazon.co.uk/Bible-Teaches-Annihilationism-Joseph-Dear-ebook/dp/B0874PPHG9),
-this was self-published as an ebook.
+Eitan Bar, [HELL: A Jewish Perspective on a Christian Doctrine](https://www.amazon.co.uk/HELL-Perspective-Christian-Doctrine-Trending-ebook/dp/B0CDC4CJTC)
 
+ Joseph Dear,
+[The Bible teaches Annhiliationism](https://www.amazon.co.uk/Bible-Teaches-Annihilationism-Joseph-Dear-ebook/dp/B0874PPHG9)
+(This was self-published as an ebook.)
+
+Michael Bahry,
+[HELL IS A BAD WORD: A Place of Never-Ending Punishment That Jesus of Nazareth Never Spoke of](https://www.amazon.co.uk/HELL-BAD-WORD-Never-Ending-Punishment-ebook/dp/B0CRVS4RQZ/)
 
 Bart D. Ehrman, [Heaven and Hell: A History of the Afterlife](https://www.amazon.co.uk/Heaven-Hell-Afterlife-Bart-Ehrman-ebook/dp/B07ZWFHY6K/ref=sr_1_1)
 
