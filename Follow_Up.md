@@ -47,8 +47,11 @@ Eitan Bar, [HELL: A Jewish Perspective on a Christian Doctrine](https://www.amaz
 [The Bible teaches Annhiliationism](https://www.amazon.co.uk/Bible-Teaches-Annihilationism-Joseph-Dear-ebook/dp/B0874PPHG9)
 (This was self-published as an ebook.)
 
+J. D. Myers
+[What is Hell?: The Truth About Hell and How to Avoid It](https://www.amazon.co.uk/What-Hell-Truth-Christian-Questions/dp/1939992664/) -  Redeeming Press (21 May 2019)
+
 Michael Bahry,
-[HELL IS A BAD WORD: A Place of Never-Ending Punishment That Jesus of Nazareth Never Spoke of](https://www.amazon.co.uk/HELL-BAD-WORD-Never-Ending-Punishment-ebook/dp/B0CRVS4RQZ/)
+[HELL IS A BAD WORD: A Place of Never-Ending Punishment That Jesus of Nazareth Never Spoke of](https://www.amazon.co.uk/HELL-BAD-WORD-Never-Ending-Punishment-ebook/dp/B0CRVS4RQZ/) -  ‎ Mercy Publishers; 1st edition (15 Jan. 2024)
 
 Bart D. Ehrman, [Heaven and Hell: A History of the Afterlife](https://www.amazon.co.uk/Heaven-Hell-Afterlife-Bart-Ehrman-ebook/dp/B07ZWFHY6K/ref=sr_1_1)
 
