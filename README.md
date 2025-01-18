@@ -101,8 +101,9 @@ publish it myself, or put it up on the Internet?  There are several reasons.
   anything else, the current index is extensive and functional, but not pretty).
 
 That said, in the end, if the choice is between self publishing and not 
-publishing at all, I'll go for the self-publishing option. If you would like to be 
-added to this list, please complete [this short 
+publishing at all, I'll go for the self-publishing option. Some people are 
+suggesting that I should go down that route now.  If you would like to be 
+added to that list, or comment in any other way, please complete [this short 
 form](https://forms.gle/WdtHYqaW535saqzB9). Thanks!
 
 To state the (possibly) obvious - I'm not doing this to make money out of the book:
