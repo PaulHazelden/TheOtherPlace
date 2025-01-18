@@ -76,8 +76,8 @@ then show me from the Bible where I'm going wrong. You can request a copy by
 filling in  [this short 
 form](https://forms.gle/WdtHYqaW535saqzB9). 
 
-If that seems like too much work,
-there are a few pieces available from the [Detail](Detail.md) page which might 
+If that seems like too much work, I have written a few short pieces, which 
+are linked to from the [Detail](Detail.md) page. These aim to 
 explain what the book is about, and why this matters.  And if you think there is
 no point in even looking at them, do have a look at the very short page, 
 [Hell Is Real](Hell_Is_Real.md),
