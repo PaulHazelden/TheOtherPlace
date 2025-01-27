@@ -26,12 +26,12 @@ it for comment and tried to get it published.
 
 Since then it has been reviewed and revised countless times, with copies sent to
 at least 64 people - there were others I forgot to note at the time, and others who
-had it passed on to them by someone else.  We are currently on the 118th revision 
-of the 11th major version. Along the way, there have been two significant re-writes.
+had it passed on to them by someone else.  We are currently on the 5th revision 
+of the 12th major version. Along the way, there have been two significant re-writes.
 
 The online article - which is still available - was 23,746 words long, including the 
 footnotes.  The latest draft of the book, now called 'Jesus and the Other Place', is 
-87,055 words and 345 pages when formatted as a A5 document.  A lot of detail has 
+87,447 words and 199 A4 pages.  A lot of detail has 
 been added, but the online article still provides the basic content.
 
 # Working Towards Publication
