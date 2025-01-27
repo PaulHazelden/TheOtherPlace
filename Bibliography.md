@@ -16,6 +16,8 @@ In the book, each entry is followed by a brief description.
 
 **Barr**, James. _The_ _S__emantics of Biblical Language_. SCM Press (1961)
 
+**Bauckham**, Richard. _The Fate of the Dead: Studies on the Jewish and Christian Apocalypses_ (Novum Testamentum Supplements, 93) Brill (1998)
+
 **Bell**, Rob. _Love Wins_. Collins (2011)
 
 **Berkhof**, Louis. _Systematic Theology_. The Banner of Truth Trust (1958) (first edition 1939)
@@ -70,6 +72,8 @@ In the book, each entry is followed by a brief description.
 
 **Polkinghorne**, John. _The Way the World Is: Christian Perspective of a Scientist_. Triangle (1983)
 
+**Rillera**, Andrew Remington. _Lamb of the Free: Recovering the Varied Sacrificial Understandings of Jesus’s Death_. Cascade Books (2024)
+
 **Rohr**, Richard. _Falling Upward: A Spirituality for the two halves of life_. SPCK (2012)
 
 **Rowell**, Geoffrey. _Hell and the Victorians: A Study of the Nineteenth-Century Theological Controversies concerning Eternal Punishment and the Future Life_. Oxford University Press (1974)
@@ -78,7 +82,7 @@ In the book, each entry is followed by a brief description.
 
 **Seymour**, Charles. _A Theodicy of Hell_. Springer (2000)
 
-**Th****ucydides**, _The History of the Peloponnesian War_. Penguin (revised 2000)
+**Thucydides**, _The History of the Peloponnesian War_. Penguin (revised 2000)
 
 **Travis**, Stephen H. _Christ and the Judgement of God: Divine Retribution in the New Testament_. Marshall Pickering (1986)
 
