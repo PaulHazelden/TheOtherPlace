@@ -4,7 +4,7 @@ Last changed 11 January 2025
 
 This is a list of the books currently in the bibliography, so that people can tell whether I know about a particular work. 
 
-In the book, each entry is followed by a brief description.
+In the actual bibliography, each entry is followed by a brief description.
 
 **Anselm of Canterbury**, edited by Brian Davies and G R Evans. _Anselm of Canterbury: The Major Works_, Oxford World’s Classics. OUP (2008)
 
