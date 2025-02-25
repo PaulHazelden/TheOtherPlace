@@ -25,7 +25,7 @@ couple of months, alongside various other activities.  Then I started to circula
 it for comment and tried to get it published.
 
 Since then it has been reviewed and revised countless times, with copies sent to
-at least 64 people - there were others I forgot to note at the time, and others who
+at least 66 people - there were others I forgot to note at the time, and others who
 had it passed on to them by someone else.  We are currently on the 13th revision 
 of the 12th major version. Along the way, there have been two significant re-writes.
 
