@@ -68,8 +68,18 @@ were taken over, and the new owners decided that it did not fit into their
 product lineup.  I have found that the subject of Hell repels and scares many people, 
 who make all kinds of assumptions about the content without reading a word.
 
-Since then, I have not had the emotional energy to jump through the hoops needed to
-persuade another publisher to take it on.
+After this, for a long time I did not had the emotional energy to jump through the hoops needed to
+persuade another publisher to take it on. But in 2025, over about a month, I received two offers of 
+publication: one from Wipf & Stock and the other from Texianer Verlag.
+
+Wipf & Stock have a good reputation, and would help me possibly get the book into libraries, but
+the publication price would be something like £40 - which is far outside the price range of the
+majority of the people I hope will buy and read it.
+
+Texianer Verlag is much less well known, but they are able to offer a much lower published price.
+The other downside is that I need to provide the internal formatting, so I need to produce one 
+last version to check the final details, and (mid-April 2025) there is only a short window left 
+for comments and reviews to be included.
 
 # Not Convinced?
 
@@ -85,6 +95,11 @@ no point in even looking at them, do have a look at the very short page,
 [Hell Is Real](Hell_Is_Real.md),
 which addresses the most common objection I hear from people who have not read the 
 book.  Thank you.
+
+So, to be clear: I welcome feedback and comments from people who have read the book 
+and have something to say arising from what I have written. But I am generally not 
+responding to people who want to tell me I'm wrong without bothering to read what
+I have said. Sorry about that, but life is too short.
 
 # Why Publication?
 
@@ -114,8 +129,11 @@ benefit from the content.
 
 # Next Steps
 
-Quite a lot needs to be done before the book can be published, but it doesn't 
-all need to be done quickly, and it doesn't all need to be done by me. 
+It was the case that a fair bit still needed 
+to be done before the book can be published (as I said, it doesn't 
+all need to be done quickly, and it doesn't all need to be done by me). 
+That work is nearly complete.
+
 The main aim of creating this repository is to make information about the book,
 (along with the process of getting it published and dealing with the issues it 
 raises) accessible to friends and the public at large.
