@@ -124,7 +124,7 @@ publish it myself, or put it up on the Internet?  There are several reasons.
   and make it more likely that journals will review it, bookshops will stock it,
   and Bible Colleges will use it as a textbook or recommend it as a reference work.
 - A publisher will put some resources into publicising it: at the very least, it
-- will appear on their website
+  will appear on their website
 - I will find it easier to publicise a book published by someone else.
 - I don't have the finances to go down the full self-publishing route.
 - A publishing house is likely to produce a better quality product (apart from
