@@ -1,7 +1,16 @@
 # Jesus and the Other Place
 
-Within the discipline of Christian theology, this is a book which unpacks 
-what the Bible actually says about Hell.
+Jesus and the Other Place:
+What the Bible
+really says about Hell,
+and the difference this makes
+to our evangelism and pastoral care.
+
+The book deals with Christian theology,
+primarily from an evangelical perspective;
+but the impact of the content affects many people
+who provide pastoral care, and every Christian
+who talks about their faith with others.
 
 # Background
 
@@ -25,13 +34,13 @@ couple of months, alongside various other activities.  Then I started to circula
 it for comment and tried to get it published.
 
 Since then it has been reviewed and revised countless times, with copies sent to
-at least 66 people - there were others I forgot to note at the time, and others who
-had it passed on to them by someone else.  We are currently on the 45th revision 
+around 70 people; there were others I forgot to note at the time, and others who
+had it passed on to them by someone else.  We are currently on revision 123 
 of the 12th major version. Along the way, there have been two significant re-writes.
 
 The online article - which is still available - was 23,746 words long, including the 
 footnotes.  The latest draft of the book, now called 'Jesus and the Other Place', is 
-87,836 words and 187 A4 pages.  A lot of detail has 
+90,587 words and 249 pages.  A lot of detail has 
 been added, but the online article still provides the basic content.
 
 # Working Towards Publication
@@ -41,7 +50,7 @@ I was first trying to get the book published.  I am sorry that he never saw it i
 
 Apart from the spelling mistakes and grammatical errors (which I am very grateful to 
 have pointed out), 
-almost all the feedback I have received has suggested changes to the structure of the 
+much of the feedback I have received has suggested changes to the structure of the 
 book, rather than the actual content.  And almost all the suggested changes said
 it would be better if *this* specific piece of content was covered earlier.  I did 
 move some content around a few times, and discovered that it didn't help.
@@ -58,7 +67,7 @@ order in which topics are covered.
 
 Almost all the remaining feedback suggested that it would be better if I included 
 stories of some people who have been affected by the doctrine of eternal torment.
-While I don't disagree with this idea, it would be a very different book - but,
+While I don't disagree with this idea, it would be a very different book - and,
 possibly, a more popular one.  However, I can't edit this book and turn it into 
 that one without losing  a great deal that other people found helpful.
 
@@ -68,7 +77,7 @@ were taken over, and the new owners decided that it did not fit into their
 product lineup.  I have found that the subject of Hell repels and scares many people, 
 who make all kinds of assumptions about the content without reading a word.
 
-After this, for a long time I did not had the emotional energy to jump through the hoops needed to
+For a long time after this, I did not had the emotional energy to jump through the hoops needed to
 persuade another publisher to take it on. But in 2025, over about a month, I received two offers of 
 publication: one from Wipf & Stock and the other from Texianer Verlag.
 
@@ -77,9 +86,13 @@ the publication price would be something like £40 - which is far outside the pr
 majority of the people I hope will buy and read it.
 
 Texianer Verlag is much less well known, but they are able to offer a much lower published price.
-The other downside is that I need to provide the internal formatting, so I need to produce one 
-last version to check the final details, and (mid-April 2025) there is only a short window left 
-for comments and reviews to be included.
+The other downside is that I need to provide the internal formatting, which leads to a surprising
+number of complications and details to get right - other than the actual text.
+
+Cutting a long story shorft, I sent - what I strongly hope to be - the last version of the text
+to the publisher at the end of July, and currently cope that it will finally see the light 
+before the end of August 2025.  And I have now sold the first copy, on the promise of it arriving
+this year.
 
 # Not Convinced?
 
