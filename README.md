@@ -89,17 +89,17 @@ Texianer Verlag is much less well known, but they are able to offer a much lower
 The other downside is that I need to provide the internal formatting, which leads to a surprising
 number of complications and details to get right - other than the actual text.
 
-Cutting a long story shorft, I sent - what I strongly hope to be - the last version of the text
-to the publisher at the end of July, and currently cope that it will finally see the light 
-before the end of August 2025.  And I have now sold the first copy, on the promise of it arriving
-this year.
+Cutting a long story short, I sent - what I strongly hope to be - the last version of the text
+to the publisher at the end of July, and currently hope that it will finally see the light 
+before the end of August 2025.  And I have now sold the first copy, having promised that it 
+will arrive some time this year.
 
 # Not Convinced?
 
 If you believe I am mistaken, I have a simple request: please read the book, and
-then show me from the Bible where I'm going wrong. You can request a copy by 
-filling in  [this short 
-form](https://forms.gle/WdtHYqaW535saqzB9). 
+then show me from the Bible where I'm going wrong. I'm afraid that I can't just send
+you a copy any more, but comments and questions can be provided on via the short
+[Response Form](https://forms.gle/WdtHYqaW535saqzB9). 
 
 If that seems like too much work, I have written a few short pieces, which 
 are linked to from the [Detail](Detail.md) page. These aim to 
@@ -110,9 +110,9 @@ which addresses the most common objection I hear from people who have not read t
 book.  Thank you.
 
 So, to be clear: I welcome feedback and comments from people who have read the book 
-and have something to say arising from what I have written. But I am generally not 
-responding to people who want to tell me I'm wrong without bothering to read what
-I have said. Sorry about that, but life is too short.
+and have something to say arising from what I have written. But I am generally no longer 
+responding to people who want to tell me I'm wrong but can't be bothered to read what
+the book says. Sorry about that, but life is too short.
 
 # Why Publication?
 
@@ -123,18 +123,12 @@ publish it myself, or put it up on the Internet?  There are several reasons.
   which has several benefits: it will aid sales, 
   and make it more likely that journals will review it, bookshops will stock it,
   and Bible Colleges will use it as a textbook or recommend it as a reference work.
-- A publisher will put some resources into publicising it, and I don't have the
-  capacity to do a great deal of promotion; also, I will find it easier to publicise
-  a book published by someone else.
+- A publisher will put some resources into publicising it: at the very least, it
+- will appear on their website
+- I will find it easier to publicise a book published by someone else.
 - I don't have the finances to go down the full self-publishing route.
 - A publishing house is likely to produce a better quality product (apart from
   anything else, the current index is extensive and functional, but not pretty).
-
-That said, in the end, if the choice is between self publishing and not 
-publishing at all, I'll go for the self-publishing option. Some people are 
-suggesting that I should go down that route now.  If you would like to be 
-added to that list, or comment in any other way, please complete [this short 
-form](https://forms.gle/WdtHYqaW535saqzB9). Thanks!
 
 To state the (possibly) obvious - I'm not doing this to make money out of the book:
 the main aim of getting it published is to enable as many people as possible to
@@ -142,17 +136,9 @@ benefit from the content.
 
 # Next Steps
 
-It was the case that a fair bit still needed 
-to be done before the book can be published (as I said, it doesn't 
-all need to be done quickly, and it doesn't all need to be done by me). 
-That work is nearly complete.
-
-The main aim of creating this repository is to make information about the book,
-(along with the process of getting it published and dealing with the issues it 
-raises) accessible to friends and the public at large.
-One thing I have recently done is to break down the tasks so that the various 
-parts become more manageable, and to make it easier for other people to step
-in and help.
+The 'next steps' are very nearly complete, but I would still appreciate
+any help with publicing and promoting it, and also any reviews or comments
+which could be used in the publicity.
 
 If you would like to support the publication of *Jesus and the Other Place*,
 or you have a story about the impact that believing in eternal conscious torment 
