@@ -12,7 +12,7 @@ but the impact of the content affects many people
 who provide pastoral care, and every Christian
 who talks about their faith with others.
 
-*This is the former 'README' page, from before the book was published.*
+**This is the former 'README' page, from before the book was published.**
 Saved, because a few people might be interested, and I hate
 throwing text away.
 
