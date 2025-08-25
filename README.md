@@ -54,6 +54,7 @@ on other platforms.  You can find copies, both paperback and ebook, in these pla
 * [Amazon](https://www.amazon.co.uk/Jesus-Other-Place-difference-evangelism/dp/3910667244/)
 * [Barnes and Noble](https://www.barnesandnoble.com/s/paul%20hazelden)
 * [Everand](https://www.everand.com/book/904882879/Jesus-and-the-Other-Place-What-the-Bible-really-says-about-Hell-and-the-difference-this-makes-to-our-evangelism-and-pastoral-care)
+  \- a reading subscription service
 
 If you have read it, please leave a review! Thank you.
 
