@@ -35,12 +35,8 @@ it for comment and tried to get it published.
 
 Since then it has been reviewed and revised countless times, with copies sent to
 around 70 people; there were others I forgot to note at the time, and others who
-had it passed on to them by someone else.  We are currently on revision 126 
-of the 12th major version. Along the way, there have been two significant re-writes.
-
-The online article - which is still available - was 23,746 words long, including the 
-footnotes.  The latest draft of the book, now called 'Jesus and the Other Place', is 
-90,587 words and 249 pages.  A lot of detail has 
+had it passed on to them by someone else. Along the way, there have been two significant 
+re-writes.  The book is now called 'Jesus and the Other Place'; a lot of detail has 
 been added, but the online article still provides the basic content.
 
 The late and much lamented Roger Forster was good enough to write a foreword when 
