@@ -61,5 +61,5 @@ you have a story about the impact that believing in eternal conscious torment
 of the unsaved had on you - or of the consequences of being told that you must
 believe it. Thanks!
 
-You can find 
-[More Detail](Detail.md) about the book in this repository.
+There are a few pages with some [more details](Detail.md) about the book in this 
+GitHub micro-site.
